@@ -1,0 +1,16 @@
+C:\Users\quida\OneDrive\SwinburneContent\IntroToProgramming\FunctionsMethods\obj\Debug\net5.0\FunctionsMethods.csprojAssemblyReference.cache
+C:\Users\quida\OneDrive\SwinburneContent\IntroToProgramming\FunctionsMethods\obj\Debug\net5.0\FunctionsMethods.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\quida\OneDrive\SwinburneContent\IntroToProgramming\FunctionsMethods\obj\Debug\net5.0\FunctionsMethods.AssemblyInfoInputs.cache
+C:\Users\quida\OneDrive\SwinburneContent\IntroToProgramming\FunctionsMethods\obj\Debug\net5.0\FunctionsMethods.AssemblyInfo.cs
+C:\Users\quida\OneDrive\SwinburneContent\IntroToProgramming\FunctionsMethods\obj\Debug\net5.0\FunctionsMethods.csproj.CoreCompileInputs.cache
+C:\Users\quida\OneDrive\SwinburneContent\IntroToProgramming\FunctionsMethods\bin\Debug\net5.0\FunctionsMethods.exe
+C:\Users\quida\OneDrive\SwinburneContent\IntroToProgramming\FunctionsMethods\bin\Debug\net5.0\FunctionsMethods.deps.json
+C:\Users\quida\OneDrive\SwinburneContent\IntroToProgramming\FunctionsMethods\bin\Debug\net5.0\FunctionsMethods.runtimeconfig.json
+C:\Users\quida\OneDrive\SwinburneContent\IntroToProgramming\FunctionsMethods\bin\Debug\net5.0\FunctionsMethods.runtimeconfig.dev.json
+C:\Users\quida\OneDrive\SwinburneContent\IntroToProgramming\FunctionsMethods\bin\Debug\net5.0\FunctionsMethods.dll
+C:\Users\quida\OneDrive\SwinburneContent\IntroToProgramming\FunctionsMethods\bin\Debug\net5.0\ref\FunctionsMethods.dll
+C:\Users\quida\OneDrive\SwinburneContent\IntroToProgramming\FunctionsMethods\bin\Debug\net5.0\FunctionsMethods.pdb
+C:\Users\quida\OneDrive\SwinburneContent\IntroToProgramming\FunctionsMethods\obj\Debug\net5.0\FunctionsMethods.dll
+C:\Users\quida\OneDrive\SwinburneContent\IntroToProgramming\FunctionsMethods\obj\Debug\net5.0\ref\FunctionsMethods.dll
+C:\Users\quida\OneDrive\SwinburneContent\IntroToProgramming\FunctionsMethods\obj\Debug\net5.0\FunctionsMethods.pdb
+C:\Users\quida\OneDrive\SwinburneContent\IntroToProgramming\FunctionsMethods\obj\Debug\net5.0\FunctionsMethods.genruntimeconfig.cache
